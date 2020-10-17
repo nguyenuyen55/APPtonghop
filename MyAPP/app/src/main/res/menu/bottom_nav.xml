@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/Login"
+    android:title="Login"
+    android:icon="@drawable/ic_action_login"
+
+    />
+    <item android:id="@+id/signup"
+        android:title="Sign in"
+        android:icon="@drawable/ic_action_sign"
+        />
+    <item android:id="@+id/listview"
+        android:title="Listview"
+        android:icon="@drawable/ic_action_lisview"
+        />
+    <item android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/ic_profile22"
+        />
+
+</menu>

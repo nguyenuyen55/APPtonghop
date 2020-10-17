@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyAPP</string>
+    <string name="forgot">Forgot password ?</string>
+
+    <string name="dy">Tôi đồng ý với điều khoản của myhome Thu Uyen</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
